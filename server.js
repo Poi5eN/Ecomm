@@ -38,7 +38,6 @@ app.set("*", function (_, res) {
 app.use(cors());
 app.use(express.json());
 
-const name = Ajay
 
 
 app.use(bodyParser.json());
